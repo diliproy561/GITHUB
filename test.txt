@@ -5,9 +5,8 @@ A added new feature for the application
 git commit  
 this is a test repo for the git commit . this commit from the branch second.
 git commit conflict .. i need some time to understand the marge 
-<<<<<<< HEAD
 this is first branch ----
-=======
+this is first branch ----
 
 second test ---- this is a main branch
->>>>>>> master
+
